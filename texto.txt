@@ -1,2 +1,3 @@
 Hola me llamo cristian
 soy estudiante de git y github
+y me gusta la programacion como desarrollador 
